@@ -1,9 +1,9 @@
-# Weather App (OpenWeather + CustomTkinter)
+# Weather-App (OpenWeather + CustomTkinter)
 
-A desktop weather app built with Python, `requests`, and `customtkinter`.
+Created a desktop weather app built with Python, `requests`, and `customtkinter`.
 It fetches current weather data from the OpenWeather API and displays it in a clean GUI.
 
-## Features
+## The Features
 
 - Search weather by city name
 - Displays:
@@ -15,7 +15,7 @@ It fetches current weather data from the OpenWeather API and displays it in a cl
   - Wind speed
 - Basic error handling for invalid city and network issues
 
-## Requirements
+## The Requirements
 
 - Python 3.8+
 - OpenWeather API key
@@ -26,7 +26,7 @@ It fetches current weather data from the OpenWeather API and displays it in a cl
 pip install requests customtkinter
 ```
 
-## Configure API Key
+## IMP: Make sure to Configure API Key to exceute this script properly
 
 Open `weather-app.py` and update:
 
@@ -35,6 +35,7 @@ api_key = "YOUR_API_KEY_HERE"
 ```
 
 Get your API key from: <https://openweathermap.org/>
+Create an account with you email and you should recieve it in you inbox.
 
 ## Run the App
 
@@ -49,3 +50,22 @@ Then enter a city name and click **Get Weather**.
 - Units are currently set to `imperial` (Fahrenheit, mph).
 - Data source endpoint:
   - `https://api.openweathermap.org/data/2.5/weather`
+
+
+
+<div align="center">
+
+<pre>
+   |\___/|
+   )     (
+   =\   /=
+    )===(
+   /     \
+   |     |
+  /       \
+  \       /
+ _/\_/\_/_
+</pre>
+
+
+</div>
