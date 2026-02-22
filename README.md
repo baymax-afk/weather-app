@@ -26,7 +26,7 @@ It fetches current weather data from the OpenWeather API and displays it in a cl
 pip install requests customtkinter
 ```
 
-## IMP: Make sure to Configure API Key to exceute this script properly
+## IMP: Make sure to Configure your API Key to exceute this script properly
 
 Open `weather-app.py` and update:
 
