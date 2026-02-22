@@ -3,7 +3,7 @@ import customtkinter as ctk
 from tkinter import messagebox
 
 # Keep as requested (hardcoded key)
-api_key = "8ee9b548f1019e20292bf6ca99f8aa9d"  #<===== Update this part with your api keey
+api_key = "your_API_key_here"  #<===== Update this part 
 
 ctk.set_appearance_mode("System")  # "Light", "Dark", or "System"
 ctk.set_default_color_theme("blue")
